@@ -1,16 +1,107 @@
-## Hi there 👋
 
-<!--
-**Bodinga1/Bodinga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Suhaib! <br/>
+<a href="#">Front-End Developer</a> | 
+<a href="#">Web Designer</a>
+</h1>
 
-Here are some ideas to get you started:
+<h3>🛠️ Tech Stack & Skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6F61?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<h2>👨‍💻 Front-End Development Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Project One</h3>
+      <p>A responsive front-end web project designed with clean layouts, modern UI components, and smooth user interaction.</p>
+      <p>Built using HTML, CSS, JavaScript, and responsive design principles.</p>
+      <p><b>Repository:</b><br/>[Add Repository Link Here]</p>
+    </td>
+
+    <td width="33%">
+      <h3>Project Two</h3>
+      <p>A modern website or web application focused on user-friendly design and accessible navigation.</p>
+      <p>Includes structured pages, reusable components, and mobile-friendly layouts.</p>
+      <p><b>Repository:</b><br/>[Add Repository Link Here]</p>
+    </td>
+
+    <td width="33%">
+      <h3>Project Three</h3>
+      <p>A front-end project showcasing practical UI development, layout design, and interactive web features.</p>
+      <p>Designed to demonstrate creativity, attention to detail, and strong front-end development skills.</p>
+      <p><b>Repository:</b><br/>[Add Repository Link Here]</p>
+    </td>
+  </tr>
+</table>
+
+<h2>🎨 Front-End Skills</h2>
+
+<p>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>React</code>
+  <code>Tailwind CSS</code>
+  <code>Bootstrap</code>
+  <code>Responsive Web Design</code>
+  <code>UI/UX Design</code>
+  <code>Website Layout Design</code>
+  <code>Landing Pages</code>
+  <code>Form Design</code>
+  <code>Git & GitHub</code>
+</p>
+
+<h2>📜 Certifications</h2>
+
+- <b>Certification One</b>  
+  <a href="#">View Certificate</a>
+
+- <b>Certification Two</b>  
+  <a href="#">View Certificate</a>
+
+- <b>Certification Three</b>  
+  <a href="#">View Certificate</a>
+
+<h2>🤳 Connect with me</h2>
+
+<a href="[Add LinkedIn Link Here]">
+  <img align="left" width="32px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+  style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
+
+<a href="[Add GitHub Link Here]">
+  <img align="left" width="32px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
+  style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
+
+<a href="[Add Instagram Link Here]">
+  <img align="left" width="32px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
+  style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
+
+<a href="[Add Twitter/X Link Here]">
+  <img align="left" width="32px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
+  style="background-color:white; padding:6px; border-radius:8px;" />
+</a>
+
+<br/>
+<br/>
+<br/>
+```
+
