@@ -23,12 +23,15 @@
 
 <table>
   <tr>
-    <td width="33%">
-      <h3>Project One</h3>
-      <p>A responsive front-end web project designed with clean layouts, modern UI components, and smooth user interaction.</p>
-      <p>Built using HTML, CSS, JavaScript, and responsive design principles.</p>
-      <p><b>Repository:</b><br/>[Add Repository Link Here]</p>
-    </td>
+  
+<td width="33%">
+  <h3>Point and Papers</h3>
+  <p>An AI-driven academic support system designed to help students study more effectively using past questions and reading materials.</p>
+  <p>Students can upload past questions and study resources, while the AI generates useful insights, summaries, and guidance from the uploaded materials.</p>
+  <p>The platform also includes a student community feature where users can discuss academic topics, share ideas, and support one another.</p>
+  <p><b>Repository:</b><br/>https://github.com/Sabastian-Ihekweme/Group-17-Final-Year-Project-Points-and-Papers</p>
+</td>
+
 
     <td width="33%">
       <h3>Project Two</h3>
