@@ -33,22 +33,7 @@
 </td>
 
 
-    <td width="33%">
-      <h3>Project Two</h3>
-      <p>A modern website or web application focused on user-friendly design and accessible navigation.</p>
-      <p>Includes structured pages, reusable components, and mobile-friendly layouts.</p>
-      <p><b>Repository:</b><br/>[Add Repository Link Here]</p>
-    </td>
-
-    <td width="33%">
-      <h3>Project Three</h3>
-      <p>A front-end project showcasing practical UI development, layout design, and interactive web features.</p>
-      <p>Designed to demonstrate creativity, attention to detail, and strong front-end development skills.</p>
-      <p><b>Repository:</b><br/>[Add Repository Link Here]</p>
-    </td>
-  </tr>
-</table>
-
+  
 <h2>🎨 Front-End Skills</h2>
 
 <p>
