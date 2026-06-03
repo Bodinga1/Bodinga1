@@ -86,7 +86,7 @@
   />
 </a>
 
-<a href="[Add GitHub Link Here]">
+<a href="https://github.com/Bodinga1/Bodinga1/blob/main/README.md">
   <img 
     align="left" 
     width="32px"
