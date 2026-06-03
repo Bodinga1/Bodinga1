@@ -1,3 +1,4 @@
+```html
 <h1>
   Hi, I'm Suhaib! <br/>
   <a href="#">Front-End Developer</a> | 
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h2>👨‍💻 Front-End Development Projects</h2>
+<h2>👨‍💻 Front-End Development Project</h2>
 
 <h3>Point and Papers</h3>
 
@@ -38,40 +39,6 @@
 <p>
   <b>Repository:</b><br/>
   https://github.com/Sabastian-Ihekweme/Group-17-Final-Year-Project-Points-and-Papers
-</p>
-
-<hr/>
-
-<h3>Project Two</h3>
-
-<p>
-  A modern front-end web project focused on clean design, responsive layouts, and user-friendly navigation.
-</p>
-
-<p>
-  Built to demonstrate practical front-end development skills using HTML, CSS, JavaScript, and modern UI principles.
-</p>
-
-<p>
-  <b>Repository:</b><br/>
-  [Add Repository Link Here]
-</p>
-
-<hr/>
-
-<h3>Project Three</h3>
-
-<p>
-  A creative web application or landing page project showcasing layout design, interface development, and interactive features.
-</p>
-
-<p>
-  Designed to highlight attention to detail, visual structure, and responsive web development.
-</p>
-
-<p>
-  <b>Repository:</b><br/>
-  [Add Repository Link Here]
 </p>
 
 <h2>🎨 Front-End Skills</h2>
@@ -149,3 +116,4 @@
 <br/>
 <br/>
 <br/>
+```
