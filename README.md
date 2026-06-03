@@ -1,4 +1,3 @@
-
 <h1>
   Hi, I'm Suhaib! <br/>
   <a href="#">Front-End Developer</a> | 
@@ -22,54 +21,58 @@
 
 <h2>👨‍💻 Front-End Development Projects</h2>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Point and Papers</h3>
-      <p>
-        An AI-driven academic support system designed to help students study more effectively using past questions and reading materials.
-      </p>
-      <p>
-        Students can upload past questions and study resources, while the AI generates useful insights, summaries, and guidance from the uploaded materials.
-      </p>
-      <p>
-        The platform also includes a student community feature where users can discuss academic topics, share ideas, and support one another.
-      </p>
-      <p>
-        <b>Repository:</b><br/>
-        https://github.com/Sabastian-Ihekweme/Group-17-Final-Year-Project-Points-and-Papers
-      </p>
-    </td>
+<h3>Point and Papers</h3>
 
-    <td width="33%" valign="top">
-      <h3>Project Two</h3>
-      <p>
-        A modern front-end web project focused on clean design, responsive layouts, and user-friendly navigation.
-      </p>
-      <p>
-        Built to demonstrate practical front-end development skills using HTML, CSS, JavaScript, and modern UI principles.
-      </p>
-      <p>
-        <b>Repository:</b><br/>
-        [Add Repository Link Here]
-      </p>
-    </td>
+<p>
+  An AI-driven academic support system designed to help students study more effectively using past questions and reading materials.
+</p>
 
-    <td width="33%" valign="top">
-      <h3>Project Three</h3>
-      <p>
-        A creative web application or landing page project showcasing layout design, interface development, and interactive features.
-      </p>
-      <p>
-        Designed to highlight attention to detail, visual structure, and responsive web development.
-      </p>
-      <p>
-        <b>Repository:</b><br/>
-        [Add Repository Link Here]
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  Students can upload past questions and study resources, while the AI generates useful insights, summaries, and guidance from the uploaded materials.
+</p>
+
+<p>
+  The platform also includes a student community feature where users can discuss academic topics, share ideas, and support one another.
+</p>
+
+<p>
+  <b>Repository:</b><br/>
+  https://github.com/Sabastian-Ihekweme/Group-17-Final-Year-Project-Points-and-Papers
+</p>
+
+<hr/>
+
+<h3>Project Two</h3>
+
+<p>
+  A modern front-end web project focused on clean design, responsive layouts, and user-friendly navigation.
+</p>
+
+<p>
+  Built to demonstrate practical front-end development skills using HTML, CSS, JavaScript, and modern UI principles.
+</p>
+
+<p>
+  <b>Repository:</b><br/>
+  [Add Repository Link Here]
+</p>
+
+<hr/>
+
+<h3>Project Three</h3>
+
+<p>
+  A creative web application or landing page project showcasing layout design, interface development, and interactive features.
+</p>
+
+<p>
+  Designed to highlight attention to detail, visual structure, and responsive web development.
+</p>
+
+<p>
+  <b>Repository:</b><br/>
+  [Add Repository Link Here]
+</p>
 
 <h2>🎨 Front-End Skills</h2>
 
@@ -146,4 +149,3 @@
 <br/>
 <br/>
 <br/>
-```
