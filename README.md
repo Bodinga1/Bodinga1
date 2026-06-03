@@ -76,7 +76,7 @@
 
 <h2>🤳 Connect with me</h2>
 
-<a href="[Add LinkedIn Link Here]">
+<a href="https://www.linkedin.com/in/suhaib-suleman-6407832a9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img align="left" width="32px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   style="background-color:white; padding:6px; border-radius:8px;" />
@@ -94,7 +94,7 @@
   style="background-color:white; padding:6px; border-radius:8px;" />
 </a>
 
-<a href="[Add Twitter/X Link Here]">
+<a href="https://x.com/suhaib_bodinga">
   <img align="left" width="32px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
   style="background-color:white; padding:6px; border-radius:8px;" />
