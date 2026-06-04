@@ -62,20 +62,20 @@
 
 <ul>
   <li>
-    <b>Certification One</b><br/>
-    <a href="#">View Certificate</a>
+    <b>Mastering Artificial Intelligence</b><br/>
+    <a href="./certificates/mastering-artificial-intelligence.pdf">View Certificate</a>
   </li>
-  <li>
-    <b>Certification Two</b><br/>
-    <a href="#">View Certificate</a>
-  </li>
-  <li>
-    <b>Certification Three</b><br/>
-    <a href="#">View Certificate</a>
-  </li>
-</ul>
 
-<h2>🤳 Connect with me</h2>
+  <li>
+    <b>Working & Managing in Global Teams</b><br/>
+    <a href="./certificates/working-and-managing-in-global-teams.pdf">View Certificate</a>
+  </li>
+
+  <li>
+    <b>Professionalism in the Workplace & Email Etiquette</b><br/>
+    <a href="./certificates/professionalism-in-the-workplace.pdf">View Certificate</a>
+  </li>
+</ul><h2>🤳 Connect with me</h2>
 
 <a href="https://www.linkedin.com/in/suhaib-suleman-6407832a9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img 
